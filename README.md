@@ -56,7 +56,7 @@ Original Flutter Design & Application by:
 kingdrofd
 
 Repository:
-https://github.com/kingdrofd/water_it_flutter
+https://github.com/kingdrofd/water_it
 
 All design credits belong to the original creator.
 
