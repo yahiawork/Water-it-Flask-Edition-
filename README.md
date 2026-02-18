@@ -24,10 +24,10 @@ This project maintains:
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/4.png" width="250"/>
-  <img src="screenshots/5.png" width="250"/>
-  <img src="screenshots/6.png" width="250"/>
-  <img src="screenshots/7.png" width="250"/>
+  <img src="screenshots/4.png" width="200"/>
+  <img src="screenshots/5.png" width="200"/>
+  <img src="screenshots/6.png" width="200"/>
+  <img src="screenshots/7.png" width="200"/>
 </p>
 
 
