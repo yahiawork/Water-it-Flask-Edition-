@@ -81,12 +81,9 @@ All design credits belong to the original creator.
 ------------------------------------------------------------
 
 ## Installation
-
+```
 git clone https://github.com/yahiawork/Water-it-Flask-Edition.git
-```
 cd Water-it-Flask-Edition
-```
-```
 python -m venv venv
 ```
 Windows:
